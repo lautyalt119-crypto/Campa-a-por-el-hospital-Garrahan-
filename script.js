@@ -4,7 +4,7 @@ const helpBtn = document.getElementById("helpBtn");
 // 🔹 CONFIG
 const startValue = 120000;
 const ratePerSecond = 1.5;
-const startDate = new Date("2024-01-01T00:00:00");
+const startDate = new Date("2026-03-07T06:54:00");
 
 // 🔊 Crear audio correctamente (clave)
 let clickSound;
